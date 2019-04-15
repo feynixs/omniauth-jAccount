@@ -30,7 +30,7 @@ module OmniAuth
 
       def raw_info
         @raw_info ||= access_token.get('https://api.sjtu.edu.cn/v1/me/profile').parsed
-        puts @raw_info
+        #puts @raw_info
         @raw_info["entities"][0]
       end
 
