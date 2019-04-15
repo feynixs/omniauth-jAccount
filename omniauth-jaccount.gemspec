@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["feynixs@gmail.com"]
 
   spec.summary       = %q{omniauth for jaccount}
-#  spec.homepage      = " Put your gem's website or public repo URL here."
 
 
   # Specify which files should be added to the gem when it is released.
