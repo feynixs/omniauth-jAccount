@@ -1,6 +1,8 @@
 # Omniauth::Jaccount
 
-More jAccount OAuth2.0 detail see <http://developer.sjtu.edu.cn/wiki/JAccount>
+More jAccount OAuth2.0 detail see： <http://developer.sjtu.edu.cn/wiki/JAccount>
+
+Omniauth detail see：<https://github.com/omniauth/omniauth>
 
 ## Installation
 
