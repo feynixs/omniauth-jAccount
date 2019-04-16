@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "omniauth/jaccount"
+require "omniauth/omniauth-jaccount"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
