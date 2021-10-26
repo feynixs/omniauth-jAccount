@@ -32,7 +32,7 @@ module OmniAuth
       end
 
       def raw_info
-        @raw_info ||= access_token.get('https://api.sjtu.edu.cn/v1/me/profile').parsed['entities'][0]
+        @raw_info ||= access_token.get('/me/profile').parsed['entities'][0]
       end
 
       def callback_url
